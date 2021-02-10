@@ -1,6 +1,7 @@
 ### Hello, I'm Patrick 👋
 
-### I'm a Front End Engineer
+### Front End Engineer | Helping mission-driven companies make change through beautiful UI with JavaScript, React
+ 
 - 🔭 I’m currently working on two personal projects
 - 🌱 I’m currently learning Redux
 - 👯 I’m looking to collaborate with other Devs looking to make interesting projects
