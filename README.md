@@ -2,7 +2,7 @@
 
 ### I'm a Front End Engineer
 - 🔭 I’m currently working on two personal projects
-- 🌱 I’m currently learning ... Redux
+- 🌱 I’m currently learning Redux
 - 👯 I’m looking to collaborate with other Devs looking to make interesting projects
 - 😄 Pronouns: They/Them
 
