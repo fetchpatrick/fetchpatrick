@@ -1,5 +1,10 @@
-### Hi, I'm Patrick 👋
-## Frontend Engineer 👋
+### Hello, I'm Patrick 👋
+
+### I'm a Front End Engineer
+- 🔭 I’m currently working on two personal projects
+- 🌱 I’m currently learning ... Redux
+- 👯 I’m looking to collaborate with other Devs looking to make interesting projects
+- 😄 Pronouns: They/Them
 
 <!--
 **fetchpatrick/fetchpatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
