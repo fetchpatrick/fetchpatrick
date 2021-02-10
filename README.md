@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Patrick 👋
+## Frontend Engineer 👋
 
 <!--
 **fetchpatrick/fetchpatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
